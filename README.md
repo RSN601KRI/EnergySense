@@ -6,6 +6,8 @@
 
 ## 📌 Problem Statement
 
+<img width="1920" height="786" alt="ES1" src="https://github.com/user-attachments/assets/748275d3-85b3-4a76-b5b2-8f9c6e3dbd76" />
+
 Accurate short-term load forecasting is **critical for decarbonizing buildings**, which contribute nearly **one-third of global energy use and emissions**.  
 
 This project addresses **forecasting and anomaly detection** for energy consumption in **commercial and residential buildings**, enabling:  
