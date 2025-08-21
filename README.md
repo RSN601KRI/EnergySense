@@ -1,4 +1,4 @@
-# ⚡ EnergySense – AI-Powered Short-Term Load Forecasting & Anomaly Detection
+# EnergySense: AI-Powered Short-Term Load Forecasting & Anomaly Detection
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
