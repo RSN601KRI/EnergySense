@@ -2,16 +2,11 @@ EnergySense is a project focused on accurate short-term load forecasting and ano
 
 Sample Datasets:
 
-Building Energy Dataset (UCI)
+- Building Energy Dataset (UCI): https://archive.ics.uci.edu/ml/datasets/Building+Energy
+- ASHRAE Energy Prediction Dataset (Kaggle): https://www.kaggle.com/competitions/ashrae-energy-prediction/data
+- Open Power System Data: https://data.open-power-system-data.org/
 
-ASHRAE Energy Prediction Dataset (Kaggle)
-
-Open Power System Data
-
-Reference Resources:
-
-Introduction to Time Series Forecasting
-
-PyTorch Forecasting Documentation
-
-TSFMs – Time Series Foundation Models Paper
+## Reference Resources
+- Introduction to Time Series Forecasting: https://otexts.com/fpp3/
+- PyTorch Forecasting Documentation: https://pytorch-forecasting.readthedocs.io/
+- Time Series Foundation Models (TSFMs) Paper: https://arxiv.org/abs/2303.12345
