@@ -1,27 +1,17 @@
-*EnergySense* is a project focused on **accurate short-term load forecasting and anomaly detection** for commercial and residential buildings. The goal is to enable **efficient energy management**, integrate **renewable energy sources**, and reduce reliance on fossil fuels by leveraging **time-series forecasting and data analysis techniques**.
+EnergySense is a project focused on accurate short-term load forecasting and anomaly detection for commercial and residential buildings. The goal is to enable efficient energy management, integrate renewable energy sources, and reduce reliance on fossil fuels by leveraging time-series forecasting and data analysis techniques.
 
-## Sample Datasets
-- [Building Energy Dataset (UCI)](https://archive.ics.uci.edu/ml/datasets/Building+Energy)
-- [ASHRAE Energy Prediction Dataset (Kaggle)](https://www.kaggle.com/competitions/ashrae-energy-prediction/data)
-- [Open Power System Data](https://data.open-power-system-data.org/)
+Sample Datasets:
 
-## Reference Resources
-- [Introduction to Time Series Forecasting](https://otexts.com/fpp3/)
-- [PyTorch Forecasting Documentation](https://pytorch-forecasting.readthedocs.io/)
-- [Time Series Foundation Models (TSFMs) Paper](https://arxiv.org/abs/2303.12345)
+Building Energy Dataset (UCI)
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/RSN601KRI/EnergySense.git
-   ````
+ASHRAE Energy Prediction Dataset (Kaggle)
 
-2. Navigate to the project folder:
+Open Power System Data
 
-   ```bash
-   cd EnergySense
-   ```
-3. Add your own datasets or modify the existing ones.
-4. Run the notebooks or scripts to analyse energy consumption patterns and generate forecasts.
+Reference Resources:
 
+Introduction to Time Series Forecasting
 
+PyTorch Forecasting Documentation
+
+TSFMs – Time Series Foundation Models Paper
